@@ -1,0 +1,30 @@
+﻿S -> NP VP
+NP -> Nam
+NP -> Lan
+NP -> CD NP
+NP -> NP ADJP
+NP -> sách
+NP -> thư_viện
+NP -> NP PP
+NP -> UN NP
+NP -> CD NP
+VP -> VB NP
+VP -> RB VP
+VP -> VB VP
+VP -> VP PP
+ADJP -> RB JJ
+PP -> IN NP
+VB -> có
+VB -> thích
+VB -> đọc
+VB -> đến
+VB -> gặp
+VB -> mượn
+RB -> rất
+RB -> thường_hay
+RB -> thường
+CD -> một
+UN -> cuốn
+IN -> ở
+IN -> của
+JJ -> hay
